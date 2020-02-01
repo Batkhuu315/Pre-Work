@@ -7,6 +7,8 @@ This simple mobile app can change text color, input custom text, change backgrou
 
 <img src=Pre-Work.gif width=200><br>
 
+i did not see how to reset text color from instruction video but i was able to change it myself from what he teaches.
+
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
 - [ ] 2. User see's custom background color.
